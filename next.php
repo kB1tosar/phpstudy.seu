@@ -12,7 +12,7 @@
             echo 'Порядковый номер искомого числа:' . $j;
         }
     }
-    include ('ad.html');
+    include ('inc.html');
 ?>
 
 
